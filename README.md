@@ -1,6 +1,6 @@
 # Modified_BachProp
 
-Here you can find the output-files of the modified BachProp algorithm. 
+Here you can find the output files of the modified BachProp algorithm. 
 Have fun! 
 
 All files in this git can be opened and listened to with the MuseScore program.
